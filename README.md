@@ -1,30 +1,39 @@
+# 还没编辑完呢，实在是撑不下去了，我要赶紧睡了，晚安(∪.∪ )...zzz
 # XL-Scripts
+
 ✨ 解决用户在日常网页使用中遇到麻烦事 | 提升用户上网体验，拒绝流氓设计
 
 ## 使用教程
 ### 1. 安装 Tampermonkey 插件
-- Chrome/Edge 浏览器：前往 [Chrome 网上应用店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 安装（需科学上网）；
-- 国内浏览器（360/QQ/夸克）：在扩展中心搜索「油猴」「Tampermonkey」安装官方版本；
-- Firefox 浏览器：前往 [Firefox 附加组件](https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/) 安装。
+- Edge
+  - 点击[前往扩展中心](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN)下载
+- Chrome
+  - 点击[前往Chrome 应用商店](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)下载（需要科学上网）
 
 ### 2. 安装仓库脚本
-方式 1（推荐）：
-- 打开仓库内对应脚本的 `.js` 文件；
-- 点击页面右上角「Raw」按钮；
-- Tampermonkey 会自动识别脚本，点击「安装/更新」即可。
+方式1（推荐）：
+- 安装好油猴脚本后打开脚本内的实用工具
+  - 特殊链接：```extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=utils```
+- 点击导入区域的选择文件
+- 选择文件后会打开选择窗口，选择ZIP文件
+- 选择完成后再点击导入即可导入成功
 
-方式 2：
+---
+
+方式2：
 - 复制脚本完整代码；
 - 打开 Tampermonkey 控制台 → 新建脚本；
 - 粘贴代码并保存，刷新目标网页即可生效。
 
+---
 
 ## 📋 脚本列表
 
-### 跳转器（✅正常）
-- 
+#### 跳转器（✅正常）
+- 还没上传呢...
+- 等一下...
 ---
-### 沙雕动画素材网破解脚本（✅正常）
+#### [沙雕动画素材网破解脚本](https://github.com/XL1126/XL-Scripts/tree/main/%E8%84%9A%E6%9C%AC%EF%BC%88%E6%89%80%E6%9C%89%E8%84%9A%E6%9C%AC%E5%9C%A8%E8%BF%99%E9%87%8C%E5%93%A6%EF%BC%89/%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB%E7%B4%A0%E6%9D%90%E7%BD%91%E7%A0%B4%E8%A7%A3%E8%84%9A%E6%9C%AC)（✅正常）
 - 我累了，不想写这个了，所以直接去[这里](https://github.com/XL1126/XL-Scripts/blob/main/%E8%84%9A%E6%9C%AC%EF%BC%88%E6%89%80%E6%9C%89%E8%84%9A%E6%9C%AC%E5%9C%A8%E8%BF%99%E9%87%8C%E5%93%A6%EF%BC%89/%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB%E7%B4%A0%E6%9D%90%E7%BD%91%E7%A0%B4%E8%A7%A3%E8%84%9A%E6%9C%AC/%E6%9D%A5%E8%87%AA%E4%BD%9C%E8%80%85%E7%9A%84%E7%95%99%E8%A8%80.txt)看吧
 ---
 ### 汽水音乐分享网页优化脚本（⚠️异常）（但是能用）
@@ -34,13 +43,13 @@
 - 注意，脚本生效的标志是顶部推广会会消失，否则就是没有生效。首次打开页面可能不起作用，需要刷新
 - 目前仅针对电脑开发了电脑端的分享网页，手机如果使用该脚本，下载功能会异常（正在修复），但其他的功能正常
 - 来自作者的留言：汽水音乐的分享页真是流氓，随便一点就会下载软件，真是烦死了，但是经过我的不屑努力，网页的流氓元素算是清除了，下载按钮也变成真正的下载音乐的按钮了（是真的下载音频文件），也不知道是那个SB想的这个分享页，但是有一点比较好，有播放功能，也有歌词，简直就是一个网页版播放器，就是加了一些流氓功能。
----
+
 
 ## ⚠️ 使用注意事项
-1. 脚本仅适配标注的网站/场景，网页版本更新可能导致脚本失效，可在 Issues 反馈；
-2. 部分脚本需要 Tampermonkey 授予「跨域请求」「本地存储」权限，需在插件设置中允许；
-3. 请勿将脚本用于商业用途、破解付费功能等违规场景，仅用于个人学习和自用；
-4. 若脚本导致网页异常，可在 Tampermonkey 中禁用对应脚本并刷新页面。
+1. 若脚本无法使用，请检查是否给了扩展插件脚本权限（开启允许用户脚本）
+  - 如果还是无法使用可以报告给我
+2. 请勿将脚本用于商业用途、破解付费功能等违规场景，仅用于个人学习和自用；
+3. 若脚本导致网页异常，可在 Tampermonkey 中禁用对应脚本并刷新页面。
 
 ## 🛠️ 自定义与贡献
 1. 如需修改脚本功能：可基于现有代码调整 DOM 操作、事件监听逻辑，核心依赖 Tampermonkey 原生 `GM_*` API；
