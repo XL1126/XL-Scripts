@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  配置多条跳转规则，支持多对一规则配置。当访问的链接匹配源模式（支持 * 通配符）时，自动跳转到对应的目标链接。整个跳转过程在页面渲染前完成，避免原页面闪现，同时彻底禁用页面交互与权限，防止操作或数据泄露
-// @author       小狸（XL1126）
+// @author       小狸
 // @match        *://*/*
 // @grant        none
 // @license      MIT

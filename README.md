@@ -13,6 +13,13 @@
 
 ### 2. 安装仓库脚本
 方式1（推荐）：
+- 安装好油猴脚本后打开脚本内的新建用户脚本
+  - 特殊链接：```extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=new-user-script+editor```
+- 把脚本内容粘贴，然后保存就行
+
+---
+
+方式2：
 - 安装好油猴脚本后打开脚本内的实用工具
   - 特殊链接：```extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=utils```
 - 点击导入区域的选择文件
@@ -20,14 +27,6 @@
 - 选择完成后再点击导入即可导入成功
 
 ---
-
-方式2：
-- 复制脚本完整代码；
-- 打开 Tampermonkey 控制台 → 新建脚本；
-- 粘贴代码并保存，刷新目标网页即可生效。
-
----
-
 ## 📋 脚本列表
 
 #### [跳转器](https://github.com/XL1126/XL-Scripts/tree/main/%E8%84%9A%E6%9C%AC%EF%BC%88%E6%89%80%E6%9C%89%E8%84%9A%E6%9C%AC%E5%9C%A8%E8%BF%99%E9%87%8C%E5%93%A6%EF%BC%89/%E8%B7%B3%E8%BD%AC%E5%99%A8)（✅正常）
@@ -49,3 +48,4 @@
 ## 📄 叠甲（一些声明）
 本仓库所有脚本仅为个人学习和自用开发，不代表任何官方立场。使用脚本产生的一切责任（如违反网站规则、法律风险）均由使用者自行承担，仓库作者不承担任何责任。
 仓库的脚本基本都是AI写的，如果遇到异常情况本人概不负责。
+

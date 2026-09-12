@@ -3,8 +3,6 @@
 下载地址：https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN
 （本人使用的Edge浏览器，也推荐使用Edge）
 
-2、安装好油猴脚本后打开脚本内的实用工具（快捷链接：extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=utils）
+2、安装好油猴脚本后打开脚本内的实用工具（快捷链接：extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=new-user-script+editor）
 
-3、点击里面的导入，选择ZIP文件
-
-4、再点击导入即可导入成功
+3、把脚本内容粘贴，然后保存就行
