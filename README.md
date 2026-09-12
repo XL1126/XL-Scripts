@@ -29,9 +29,9 @@
 ---
 ## 📋 脚本列表
 
-#### [跳转器](https://github.com/XL1126/XL-Scripts/tree/main/%E8%84%9A%E6%9C%AC%EF%BC%88%E6%89%80%E6%9C%89%E8%84%9A%E6%9C%AC%E5%9C%A8%E8%BF%99%E9%87%8C%E5%93%A6%EF%BC%89/%E8%B7%B3%E8%BD%AC%E5%99%A8)（✅正常）
-#### [沙雕动画素材网破解脚本](https://github.com/XL1126/XL-Scripts/tree/main/%E8%84%9A%E6%9C%AC%EF%BC%88%E6%89%80%E6%9C%89%E8%84%9A%E6%9C%AC%E5%9C%A8%E8%BF%99%E9%87%8C%E5%93%A6%EF%BC%89/%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB%E7%B4%A0%E6%9D%90%E7%BD%91%E7%A0%B4%E8%A7%A3%E8%84%9A%E6%9C%AC)（✅正常）
-#### [汽水音乐分享网页优化脚本](https://github.com/XL1126/XL-Scripts/tree/main/%E8%84%9A%E6%9C%AC%EF%BC%88%E6%89%80%E6%9C%89%E8%84%9A%E6%9C%AC%E5%9C%A8%E8%BF%99%E9%87%8C%E5%93%A6%EF%BC%89/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90%E5%88%86%E4%BA%AB%E7%BD%91%E9%A1%B5%E4%BC%98%E5%8C%96%E8%84%9A%E6%9C%AC)（⚠️异常）（但是能用）
+#### [汽水音乐分享网页优化脚本](https://github.com/XL1126/XL-Scripts/tree/main/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90%E5%88%86%E4%BA%AB%E7%BD%91%E9%A1%B5%E4%BC%98%E5%8C%96%E8%84%9A%E6%9C%AC)
+#### [跳转器](https://github.com/XL1126/XL-Scripts/tree/main/%E8%B7%B3%E8%BD%AC%E5%99%A8)
+#### [沙雕动画素材网破解脚本](https://github.com/XL1126/XL-Scripts/tree/main/%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB%E7%B4%A0%E6%9D%90%E7%BD%91%E7%A0%B4%E8%A7%A3%E8%84%9A%E6%9C%AC)
 
 
 ## ⚠️ 使用注意事项
