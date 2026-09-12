@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         小鑫素材破解脚本
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.0
 // @description  可以免费下载小鑫素材网的所有素材
 // @author       为人民服务
 // @match        https://www.xiaoxinsc.com/*
